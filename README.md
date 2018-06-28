@@ -48,9 +48,9 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - url:  https://www.cs.jhu.edu/~ccb/publications/arabic-dialect-corpus.pdf
 - This work currently accepted to VarDial Worshop 2018 co-located with COLING 2018 under the name (paper soon)
 "Deep Models for Arabic Dialect Identification on Benchmarked Data"
-- Training data link: 
-- Dev data link: 
-- Test data link: 
+- Training data link: [link]: https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/tree/master/data/train
+- Dev data link: [link]: https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/tree/master/data/dev
+- Test data link: [link]: https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/tree/master/data/test
 - An example on how to use it is in: 
 *cite this work using the following bibtext:*
 
