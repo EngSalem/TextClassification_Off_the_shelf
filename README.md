@@ -66,8 +66,8 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 # External Embedding Models #
 
 - For Arabic Dialects we release 2 embedding models 
-- AOC embedding: Download in url: 
-- Twitter Embedding Model: Download in url: 
+- AOC embedding: Download in url: [link] https://drive.google.com/open?id=1QEg9HotnTCI45-PT52g445bp5qYQ4RSm
+- Twitter Embedding Model: Download in url: [link]  
  - cite the following paper if you are planning to use city level dialect embedding model: 
  
 @article{abdulyou,
