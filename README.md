@@ -36,7 +36,7 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - dev: Development file in csv format 
 - test: test file in csv format
 - model_type: currently support those type of models: (cnn: word level cnn, clstm: word level clstm, lstm: vanilla lstm architecture, blstm: Vanilla bidirectional LSTM, bigru: Vanilla BiGated Recurrent unit, attbilstm: BiLSTM with self attention mechanism)
-- static: used in case of external embedding, if True: External Embeddings are not fine tuned during training, if False: External EMbeddings are fine tuned during testing). 
+- static: used in case of external embedding, if True: External Embeddings are not fine tuned during training, if False: External EMbeddings are fine tuned during training). 
 - rand: if True, No external embedding is applied, randomly initialized embedding 
 - embedding: External embedding model in gensim format
 - model_file: Output model file in Json.
@@ -56,7 +56,7 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 
 @inproceedings{Elaraby2018,
   title={Deep Models for Arabic Dialect Identification on Benchmarked Data},
-  author={ Elaraby, Mohamed and Abdul-Mageed, Muhammad},
+  author={Elaraby, Mohamed and Abdul-Mageed, Muhammad},
   booktitle={Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial5)},
   year={2018}
 }
