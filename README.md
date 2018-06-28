@@ -41,3 +41,21 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - embedding: External embedding model in gensim format
 - model_file: Output model file in Json.
 
+# Example Project (Arabic Dialect Identification with Deep Models) #
+
+- This project utilize 6 deep learning models applied on Arabic Online Commentary Dataset 
+- url:  https://www.cs.jhu.edu/~ccb/publications/arabic-dialect-corpus.pdf
+- This work currently accepted to VarDial Worshop 2018 co-located with COLING 2018 under the name 
+"Deep Models for Arabic Dialect Identification on Benchmarked Data"
+- Training data link: 
+- Dev data link: 
+- Test data link: 
+*cite this work using the following bibtext:*
+
+@inproceedings{Elaraby2018,
+  title={Deep Models for Arabic Dialect Identification on Benchmarked Data},
+  author={ Elaraby, Mohamed and Abdul-Mageed, Muhammad},
+  booktitle={Proceedings of the Fifth Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial5)},
+  year={2018}
+}
+
