@@ -31,13 +31,13 @@ python test_baselines.py --train training_file --Ar='True' --dev Dev_File --test
 
 # Options details #
 
-train: training file assuming in csv format, text, label
-Ar: if True then Arabic normalization is applied (should be true in case of external embeddings)
-dev: Development file in csv format 
-test: test file in csv format
-model_type: currently support those type of models: (cnn: word level cnn, clstm: word level clstm, lstm: vanilla lstm architecture, blstm: Vanilla bidirectional LSTM, bigru: Vanilla BiGated Recurrent unit, attbilstm: BiLSTM with self attention mechanism)
-static: used in case of external embedding, if True: External Embeddings are not fine tuned during training, if False: External EMbeddings are fine tuned during testing). 
-rand: if True, No external embedding is applied, randomly initialized embedding 
-embedding: External embedding model in gensim format
-model file: Output model file in Json.
+- train: training file assuming in csv format, text, label
+- Ar: if True then Arabic normalization is applied (should be true in case of external embeddings)
+- dev: Development file in csv format 
+- test: test file in csv format
+- model_type: currently support those type of models: (cnn: word level cnn, clstm: word level clstm, lstm: vanilla lstm architecture, blstm: Vanilla bidirectional LSTM, bigru: Vanilla BiGated Recurrent unit, attbilstm: BiLSTM with self attention mechanism)
+- static: used in case of external embedding, if True: External Embeddings are not fine tuned during training, if False: External EMbeddings are fine tuned during testing). 
+- rand: if True, No external embedding is applied, randomly initialized embedding 
+- embedding: External embedding model in gensim format
+- model_file: Output model file in Json.
 
