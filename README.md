@@ -46,6 +46,8 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 
 - This project utilize 6 deep learning models applied on Arabic Online Commentary Dataset 
 - url:  https://www.cs.jhu.edu/~ccb/publications/arabic-dialect-corpus.pdf
+- dataset url: https://www.cis.upenn.edu/~ccb/data/AOC-dialectal-annotations.zip 
+- make sure to cite AOC oringial paper if you are going to use it in your work. 
 - This work currently accepted to VarDial Worshop 2018 co-located with COLING 2018 under the name (paper soon)
 "Deep Models for Arabic Dialect Identification on Benchmarked Data"
 - Training data link: [link]: https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/tree/master/data/train
