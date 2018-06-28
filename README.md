@@ -41,6 +41,7 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - embedding: External embedding model in gensim format
 - model_file: Output model file in Json.
 
+*Note: final model score is dumped into a file with name_of_model_score with both dev and test scores*
 # Example Project (Arabic Dialect Identification with Deep Models) #
 
 - This project utilize 6 deep learning models applied on Arabic Online Commentary Dataset 
@@ -50,6 +51,7 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - Training data link: 
 - Dev data link: 
 - Test data link: 
+- An example on how to use it is in: 
 *cite this work using the following bibtext:*
 
 @inproceedings{Elaraby2018,
