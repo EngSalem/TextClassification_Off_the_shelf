@@ -53,8 +53,9 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - Training data link: [link]: https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/tree/master/data/train
 - Dev data link: [link]: https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/tree/master/data/dev
 - Test data link: [link]: https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/tree/master/data/test
-- An example on how to use it is in: 
-*cite this work using the following bibtext:*
+- An example on how to use it is in:  https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/blob/master/run.sh
+
+- *If you are going to follow up on this project please cite this work using the following bibtext:*
 
 @inproceedings{Elaraby2018,
   title={Deep Models for Arabic Dialect Identification on Benchmarked Data},
