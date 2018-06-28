@@ -45,7 +45,7 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 
 - This project utilize 6 deep learning models applied on Arabic Online Commentary Dataset 
 - url:  https://www.cs.jhu.edu/~ccb/publications/arabic-dialect-corpus.pdf
-- This work currently accepted to VarDial Worshop 2018 co-located with COLING 2018 under the name 
+- This work currently accepted to VarDial Worshop 2018 co-located with COLING 2018 under the name (paper soon)
 "Deep Models for Arabic Dialect Identification on Benchmarked Data"
 - Training data link: 
 - Dev data link: 
@@ -59,3 +59,14 @@ url:https://arxiv.org/pdf/1511.08630.pdf
   year={2018}
 }
 
+# External Embedding Models #
+
+- For Arabic Dialects we release 2 embedding models 
+- AOC embedding: Download in url: 
+- Twitter Embedding Model: Download in url: 
+ - cite the following paper if you are planning to use city level dialect embedding model: 
+ 
+@article{abdulyou,
+  title={You Tweet What You Speak: A City-Level Dataset of Arabic Dialects},
+  author={Abdul-Mageed, Muhammad and Alhuzali, Hassan and Elaraby, Mohamed}
+}
