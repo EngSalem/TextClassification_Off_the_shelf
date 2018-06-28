@@ -20,14 +20,14 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 
 # Requirements
 
-1- keras (2.0 or above)
-2- gensim
-3- numpy
-4- pandas
+- keras (2.0 or above)
+- gensim
+- numpy
+- pandas
 
 # General Usage:
-* Tested with python 3.4 *
-python test_baselines.py --train training_file --Ar='True' --dev Dev_File --test test_file --model_type=model_selection --static=Trainable_embeddings --rand=Random_Embeddings --embedding=External_Embedding_model --model_file=Output_model_file_inJson
+- * Tested with python 3.4 *
+- python test_baselines.py --train training_file --Ar='True' --dev Dev_File --test test_file --model_type=model_selection --static=Trainable_embeddings --rand=Random_Embeddings --embedding=External_Embedding_model --model_file=Output_model_file_inJson
 
 # Options details #
 
