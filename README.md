@@ -27,7 +27,7 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 
 # General Usage:
 - * Tested with python 3.4 *
-- python test_baselines.py --train training_file --Ar='True' --dev Dev_File --test test_file --model_type=model_selection --static=Trainable_embeddings --rand=Random_Embeddings --embedding=External_Embedding_model --model_file=Output_model_file_inJson
+- python test_baselines.py --train training_file --Ar='True' --dev Dev_File --test test_file --model_type=model_selection --static=Trainable_embeddings --rand=Random_Embeddings --embedding=External_Embedding_model  --EMB_type=Embedding_type --model_file=Output_model_file_inJson
 - put your training labels in [link:] https://github.com/EngSalem/Text-Classification-of-the-shelf-with-a-normalizer-for-Arabic-text-/blob/master/conf/label_list
 # Options details #
 
@@ -40,6 +40,10 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - rand: if True, No external embedding is applied, randomly initialized embedding 
 - embedding: External embedding model in gensim format
 - model_file: Output model file in Json.
+
+ * Adding pretrained FastText choice*
+ 
+ -EMB_type: Choose whether fastText or CBOW or skipgram
 
 *Note: final model score is dumped into a file with name_of_model_score with both dev and test scores*
 # Example Project (Arabic Dialect Identification with Deep Models) #
