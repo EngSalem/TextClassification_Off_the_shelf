@@ -50,8 +50,8 @@ url:https://arxiv.org/pdf/1511.08630.pdf
 - url:  https://www.cs.jhu.edu/~ccb/publications/arabic-dialect-corpus.pdf
 - dataset url: https://www.cis.upenn.edu/~ccb/data/AOC-dialectal-annotations.zip 
 - make sure to cite AOC oringial paper if you are going to use it in your work. 
-- This work currently accepted to VarDial Worshop 2018 co-located with COLING 2018 under the name (paper soon)
-"Deep Models for Arabic Dialect Identification on Benchmarked Data"
+- This work currently published in proceedings of VarDial Worshop 2018 co-located with COLING 2018 under the name 
+"Deep Models for Arabic Dialect Identification on Benchmarked Data" [[link](http://aclweb.org/anthology/W18-3930)]
 - Training data: [[link](https://github.com/UBC-NLP/aoc_id/edit/master/data/train)]
 - Dev data: [[link](https://github.com/UBC-NLP/aoc_id/edit/master/data/dev)]
 - Test data: [[link](https://github.com/UBC-NLP/aoc_id/edit/master/data/test)]
